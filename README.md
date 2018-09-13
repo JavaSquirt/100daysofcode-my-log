@@ -1,2 +1,2 @@
-# 100daysofcode-my-log
+# 100 Days Of Code - Log
 go

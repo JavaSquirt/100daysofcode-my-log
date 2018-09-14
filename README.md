@@ -1,8 +1,8 @@
-# 100 Days Of Code - my Log
+<h1>100 Days Of Code - my Log</h1>
 
-### Day 1: September 13. Thursday
+<h2>Day 1: September 13. Thursday</h2>
 
-**Today's Progress**: https://learn.freecodecamp.org
+<strong>Today's Progress:</strong> https://learn.freecodecamp.org
 
 <ul>
   <li>Responsive Web Design Certification (300 hours)</li>
@@ -30,3 +30,28 @@
   </ul>
 </ul>
 
+<h2>Day 2: September 14. Friday</h2>
+
+<strong>Today's Progress:</strong> https://ru.hexlet.io/courses/cli-basics
+
+<ol>
+  <li><del>Введение</del></li>
+  <li><del>Операционные системы</del></li>
+  <li><del>Командная строка</del></li>
+  <li><del>Навигация</del></li>
+  <li>Интерфейс Командной строки</li>
+  <li>Файловая структура</li>
+  <li>Чтение файлов</li>
+  <li>Grep</li>
+  <li>Редактирование файлов</li>
+  <li>Потоки</li>
+  <li>Пайплайн (Конвейер)</li>
+  <li>Манипулирование файловой структурой</li>
+  <li>Переменные окружения</li>
+  <li>История</li>
+  <li>Пользователи и Группы</li>
+  <li>Sudo</li>
+  <li>Права доступа</li>
+  <li>Пакетный менеджер</li>
+  <li>Выполнение программ</li>
+</ol>

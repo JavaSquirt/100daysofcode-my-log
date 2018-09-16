@@ -74,3 +74,18 @@
   <li>Кексби. Полуфинал</li>
   <li>Кексби. Финал</li>
 </ol>
+
+<h2>Day 4: September 16. Sunday</h2>
+
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/40
+
+<ol><strong>Основы HTML</strong>
+  <li><del>Знакомство</li>
+  <li><del>Структура HTML-документа</del></li>
+  <li><del>Разметка текста</li>
+  <li><del><b>Ссылки и изображения</b></del></li>
+  <li>Знакомство с таблицами</li>
+  <li>Знакомство с формами</li>
+  <li>Знакомство с HTML5</li>
+  <li>Формы и HTML5</li>
+</ol>

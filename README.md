@@ -132,3 +132,42 @@
   <li>Пакетный менеджер</li>
   <li>Выполнение программ</li>
 </ol>
+
+<h2>Day 6: September 18. Tuesday</h2>
+
+<strong>Today's Progress:</strong> https://ru.hexlet.io/courses/cli-basics
+
+<ol>
+  <li><del>Введение</del></li>
+  <li><del>Операционные системы</del></li>
+  <li><del>Командная строка</del></li>
+  <li><del>Навигация</del></li>
+  <li><del>Интерфейс Командной строки</del></li>
+  <li><del>Файловая структура</del></li>
+  <li><del>Чтение файлов</del></li>
+  <li><del><b>Grep</b></del></li>
+  <li>Редактирование файлов</li>
+  <li>Потоки</li>
+  <li>Пайплайн (Конвейер)</li>
+  <li>Манипулирование файловой структурой</li>
+  <li>Переменные окружения</li>
+  <li>История</li>
+  <li>Пользователи и Группы</li>
+  <li>Sudo</li>
+  <li>Права доступа</li>
+  <li>Пакетный менеджер</li>
+  <li>Выполнение программ</li>
+</ol>
+
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/39
+
+<ol><strong>Основы HTML</strong>
+  <li><del>Знакомство</li>
+  <li><del>Структура HTML-документа</del></li>
+  <li><del>Разметка текста</li>
+  <li><del>Ссылки и изображения</del></li>
+  <li><del><b>Знакомство с таблицами</b></del></li>
+  <li>Знакомство с формами</li>
+  <li>Знакомство с HTML5</li>
+  <li>Формы и HTML5</li>
+</ol>

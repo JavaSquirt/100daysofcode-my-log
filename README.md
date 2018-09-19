@@ -171,3 +171,30 @@
   <li>Знакомство с HTML5</li>
   <li>Формы и HTML5</li>
 </ol>
+
+<h2>Day 7: September 19. Thursday</h2>
+
+<strong>Today's Progress:</strong> https://learn.freecodecamp.org
+
+<ul>
+  <li>Responsive Web Design Certification (300 hours)</li>
+  <ul>
+    <li>Basic HTML and HTML5</li>
+    <ul>
+      <li>Add Placeholder Text to a Text Field</li>
+      <li>Create a Form Element</li>
+      <li>Add a Submit Button to a Form</li>
+      <li>Use HTML5 to Require a Field</li>
+      <li>Create a Set of Radio Buttons</li>
+    </ul>
+  </ul>
+</ul>
+
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/102
+
+<ol>
+  <li><del>Кексби. Знакомство</del></li>
+  <li><del>Кексби. Разметка, оформление текста</del></li>
+  <li><del>Кексби. Ссылки и изображения</del></li>
+  <li><del><b>Кексби. Таблицы</b></del></li>
+</ol>

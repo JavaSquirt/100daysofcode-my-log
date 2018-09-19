@@ -172,7 +172,7 @@
   <li>Формы и HTML5</li>
 </ol>
 
-<h2>Day 7: September 19. Thursday</h2>
+<h2>Day 7: September 19. Wednesday</h2>
 
 <strong>Today's Progress:</strong> https://learn.freecodecamp.org
 

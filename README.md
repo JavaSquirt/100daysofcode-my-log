@@ -198,3 +198,18 @@
   <li><del>Кексби. Ссылки и изображения</del></li>
   <li><del><b>Кексби. Таблицы</b></del></li>
 </ol>
+
+<h2>Day 8: September 20. Thursday</h2>
+
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/46
+
+<ol><strong>Основы HTML</strong>
+  <li><del>Знакомство</li>
+  <li><del>Структура HTML-документа</del></li>
+  <li><del>Разметка текста</li>
+  <li><del>Ссылки и изображения</del></li>
+  <li><del>Знакомство с таблицами</del></li>
+  <li><del><b>Знакомство с формами</b></del></li>
+  <li>Знакомство с HTML5</li>
+  <li>Формы и HTML5</li>
+</ol>

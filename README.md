@@ -213,3 +213,15 @@
   <li>Знакомство с HTML5</li>
   <li>Формы и HTML5</li>
 </ol>
+
+<h2>Day 9: September 21. Friday</h2>
+
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/129
+
+<ol>
+  <li><del>Кексби. Знакомство</del></li>
+  <li><del>Кексби. Разметка, оформление текста</del></li>
+  <li><del>Кексби. Ссылки и изображения</del></li>
+  <li><del>Кексби. Таблицы</del></li>
+  <li><del><b>Кексби. Формы</b></del></li>
+</ol>

@@ -251,3 +251,28 @@
   <li><del>Кексби. Формы</del></li>
   <li><del><b>Кексби. Промежуточное испытание (5/8)</b></del></li>
 </ol>
+
+<h2>Day 12: September 24. Monday</h2>
+
+<strong>Today's Progress:</strong> https://learn.freecodecamp.org
+
+<ul>
+  <li>Responsive Web Design Certification (300 hours)</li>
+  <ul>
+    <li>Basic HTML and HTML5</li>
+    <ul>      
+      <li><b>Create a Set of Checkboxes</b></li>
+    </ul>
+  </ul>
+</ul>
+
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/165
+
+<ol>
+  <li><del>Кексби. Знакомство</del></li>
+  <li><del>Кексби. Разметка, оформление текста</del></li>
+  <li><del>Кексби. Ссылки и изображения</del></li>
+  <li><del>Кексби. Таблицы</del></li>
+  <li><del>Кексби. Формы</del></li>
+  <li><del><b>Кексби. Промежуточное испытание (6/8)</b></del></li>
+</ol>

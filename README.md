@@ -276,3 +276,23 @@
   <li><del>Кексби. Формы</del></li>
   <li><del><b>Кексби. Промежуточное испытание (6/8)</b></del></li>
 </ol>
+
+<h2>Day 13: September 25. Tuesday</h2>
+
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/165
+
+<ol>
+  <li><del>Кексби. Знакомство</del></li>
+  <li><del>Кексби. Разметка, оформление текста</del></li>
+  <li><del>Кексби. Ссылки и изображения</del></li>
+  <li><del>Кексби. Таблицы</del></li>
+  <li><del>Кексби. Формы</del></li>
+  <li><del><b>Кексби. Промежуточное испытание (8/8)</b></del></li>
+</ol>
+
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/41
+
+<h3>Основы CSS</h3>
+<ol>
+  <li><del>Знакомство с CSS</del></li>
+</ol>

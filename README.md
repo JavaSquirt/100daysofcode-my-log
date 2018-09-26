@@ -296,3 +296,13 @@
 <ol>
   <li><del>Знакомство с CSS</del></li>
 </ol>
+
+<h2>Day 14: September 26. Wednesday</h2>
+
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/42
+
+<h3>Основы CSS</h3>
+<ol>
+  <li><del>Знакомство с CSS</del></li>
+  <li><del>Селекторы, часть 1</del></li>
+</ol>

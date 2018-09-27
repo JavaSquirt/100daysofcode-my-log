@@ -306,3 +306,14 @@
   <li><del>Знакомство с CSS</del></li>
   <li><del>Селекторы, часть 1</del></li>
 </ol>
+
+<h2>Day 15: September 27. Thursday</h2>
+
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/66
+
+<h3>Основы CSS</h3>
+<ol>
+  <li><del>Знакомство с CSS</del></li>
+  <li><del>Селекторы, часть 1</del></li>
+  <li><del>Наследование и каскадирование</del></li>  
+</ol>

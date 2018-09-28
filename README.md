@@ -317,3 +317,12 @@
   <li><del>Селекторы, часть 1</del></li>
   <li><del>Наследование и каскадирование</del></li>  
 </ol>
+
+<h2>Day 16: September 28. Friday</h2>
+
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/43
+
+<h3>Оформление текста</h3>
+<ol>
+  <li><del>Оформление текста, часть 1</del></li>
+</ol>

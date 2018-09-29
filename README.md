@@ -326,3 +326,17 @@
 <ol>
   <li><del>Оформление текста, часть 1</del></li>
 </ol>
+
+<h2>Day 17: September 29. Saturday</h2>
+
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/156
+
+<ol>
+  <li><del>Кексби. Знакомство</del></li>
+  <li><del>Кексби. Разметка, оформление текста</del></li>
+  <li><del>Кексби. Ссылки и изображения</del></li>
+  <li><del>Кексби. Таблицы</del></li>
+  <li><del>Кексби. Формы</del></li>
+  <li><del>Кексби. Промежуточное испытание (8/8)</del></li>
+  <li><del><b>Кексби. Базовая стилизация (12/23)</b></del></li>
+</ol>

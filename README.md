@@ -383,3 +383,12 @@
   <li><del>Кексби. Базовая стилизация</del></li>
   <li><del><b>Кексби. Графика и оформление</b></del></li>
 </ol>
+
+<h2>Day 21: October 03. Wednesday</h2>
+
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/44
+
+<h3>Построение сеток</h3>
+<ol>
+  <li><del><b>Блочная модель документа</b></del></li>
+</ol>

@@ -412,3 +412,13 @@
   <li><del>Блочная модель документа</del></li>
   <li><del><b>Сетки (27/32)</b></del></li>
 </ol>
+
+<h2>Day 24: October 06. Saturday</h2>
+
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/65
+
+<h3>Построение сеток</h3>
+<ol>
+  <li><del>Блочная модель документа</del></li>
+  <li><del><b>Сетки (32/32)</b></del></li>
+</ol>

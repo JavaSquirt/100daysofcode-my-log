@@ -422,3 +422,19 @@
   <li><del>Блочная модель документа</del></li>
   <li><del><b>Сетки (32/32)</b></del></li>
 </ol>
+
+<h2>Day 25: October 07. Sunday</h2>
+
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/158
+
+<ol>
+  <li><del>Кексби. Знакомство</del></li>
+  <li><del>Кексби. Разметка, оформление текста</del></li>
+  <li><del>Кексби. Ссылки и изображения</del></li>
+  <li><del>Кексби. Таблицы</del></li>
+  <li><del>Кексби. Формы</del></li>
+  <li><del>Кексби. Промежуточное испытание</del></li>
+  <li><del>Кексби. Базовая стилизация</del></li>
+  <li><del>Кексби. Графика и оформление</del></li>
+  <li><del><b>Кексби. Сетки</b></del></li>
+</ol>

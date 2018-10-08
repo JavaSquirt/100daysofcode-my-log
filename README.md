@@ -438,3 +438,17 @@
   <li><del>Кексби. Графика и оформление</del></li>
   <li><del><b>Кексби. Сетки</b></del></li>
 </ol>
+
+<h2>Day 26: October 08. Monday</h2>
+
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/45
+
+<h3>Декоративные эффекты</h3>
+<ol>
+  <li><del><b>Позиционирование</b></del></li>
+  <li><del>Фоны, часть 1</del></li>
+  <li>Рамки и фоны, часть 2</li>
+  <li>Игра теней</li>
+  <li>Линейные градиенты</li>
+  <li>Кекстаграм: Начало. CSS-фильтры</li>
+</ol>

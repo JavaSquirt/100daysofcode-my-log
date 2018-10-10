@@ -469,3 +469,14 @@
   <li><del>Кексби. Сетки</del></li>
   <li><del><b>Глава 10: Кексби. Четвертьфинал</b></del></li>
 </ol>
+
+<h2>Day 28: October 10. Wednesday</h2>
+
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/50
+
+<h3>Мастерские</h3>
+<ol>
+  <li><del><b>Мастерская: создаём меню (9/28)</b></del></li>
+  <li>Мастерская: декоративные элементы</li>
+  <li>Мастерская: декоративные эффекты на CSS3</li>
+</ol>

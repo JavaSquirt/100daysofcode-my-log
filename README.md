@@ -481,7 +481,7 @@
   <li>Мастерская: декоративные эффекты на CSS3</li>
 </ol>
 
-<h2>Day 29: October 11. Wednesday</h2>
+<h2>Day 29: October 11. Thursday</h2>
 
 <strong>Today's Progress:</strong> https://htmlacademy.ru/courses/50
 
@@ -492,7 +492,7 @@
   <li>Мастерская: декоративные эффекты на CSS3</li>
 </ol>
 
-<h2>Day 30: October 12. Wednesday</h2>
+<h2>Day 30: October 12. Friday</h2>
 
 <strong>Today's Progress:</strong> https://htmlacademy.ru/courses/50
 

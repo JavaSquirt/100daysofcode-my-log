@@ -520,3 +520,14 @@
   <li><del>Глава 10: Кексби. Четвертьфинал</del></li>
   <li><del><b>Кексби. Полуфинал</b></del></li>
 </ol>
+
+<h2>Day 32: October 14. Sunday</h2>
+
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/55
+
+<h3>Мастерские</h3>
+<ol>
+  <li><del>Мастерская: создаём меню (28/28)</del></li>
+  <li><del><b>Мастерская: декоративные элементы</b></del></li>
+  <li>Мастерская: декоративные эффекты на CSS3</li>
+</ol>

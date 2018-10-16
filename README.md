@@ -551,3 +551,19 @@
   <li><del>Кексби. Полуфинал/del></li>
   <li><del><b>Кексби. Финал</b></del></li>
 </ol>
+
+<h2>Day 34: October 16. Tuesday</h2>
+
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/73
+
+<h3>Основы HTML</h3>
+<ol>
+  <li><del>Знакомство</li>
+  <li><del>Структура HTML-документа</del></li>
+  <li><del>Разметка текста</del></li>
+  <li><del>Ссылки и изображения</del></li>
+  <li><del>Знакомство с таблицами</del></li>
+  <li><del>Знакомство с формами</del></li>
+  <li><del><b>Знакомство с HTML5</b></del></li>
+  <li>Формы и HTML5</li>
+</ol>

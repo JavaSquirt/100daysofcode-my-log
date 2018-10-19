@@ -597,3 +597,9 @@
   <li><del>Знакомство с HTML5</del></li>
   <li><del><b>Формы и HTML5 28/28</b></del></li>
 </ol>
+
+<h2>Day 37: October 19. Friday</h2>
+
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/57
+
+<h3>Глава 4: Селекторы, часть 2 (10/20)</h3>

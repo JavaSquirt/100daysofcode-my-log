@@ -603,3 +603,9 @@
 <strong>Today's Progress:</strong> https://htmlacademy.ru/courses/57
 
 <h3>Глава 4: Селекторы, часть 2 (10/20)</h3>
+
+<h2>Day 38: October 20. Saturday</h2>
+
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/57
+
+<h3>Глава 4: Селекторы, часть 2 (20/20)</h3>

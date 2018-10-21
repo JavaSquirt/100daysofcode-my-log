@@ -609,3 +609,9 @@
 <strong>Today's Progress:</strong> https://htmlacademy.ru/courses/57
 
 <h3>Глава 4: Селекторы, часть 2 (20/20)</h3>
+
+<h2>Day 39: October 21. Sunday</h2>
+
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/58
+
+<h3>Глава 5: Селекторы, часть 3 (12/18)</h3>

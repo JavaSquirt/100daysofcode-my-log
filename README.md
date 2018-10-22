@@ -615,3 +615,11 @@
 <strong>Today's Progress:</strong> https://htmlacademy.ru/courses/58
 
 <h3>Глава 5: Селекторы, часть 3 (12/18)</h3>
+
+<h2>Day 40: October 22. Monday</h2>
+
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/58
+<h3>Глава 5: Селекторы, часть 3 (18/18)</h3>
+
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/88
+<h3>Рамки и фоны, часть 2 (7/33)</h3>

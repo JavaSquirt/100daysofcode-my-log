@@ -626,3 +626,7 @@
 <h2>Day 41: October 23. Tuesday</h2>
 <h3>Рамки и фоны, часть 2 (23/33)</h3>
 <strong>Today's Progress:</strong> https://htmlacademy.ru/courses/88
+
+<h2>Day 42: October 24. Wednesday</h2>
+<h3>Рамки и фоны, часть 2 (26/33)</h3>
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/88

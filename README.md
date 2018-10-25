@@ -630,3 +630,9 @@
 <h2>Day 42: October 24. Wednesday</h2>
 <h3>Рамки и фоны, часть 2 (26/33)</h3>
 <strong>Today's Progress:</strong> https://htmlacademy.ru/courses/88
+
+<h2>Day 43: October 25. Thursday</h2>
+<h3>Рамки и фоны, часть 2 [32/33]</h3>
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/51
+<h3>Глава 4:Игра теней [9/17]</h3>
+

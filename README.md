@@ -636,3 +636,9 @@
 <strong>Today's Progress:</strong> https://htmlacademy.ru/courses/88
 <h3>Глава 4: Игра теней [9/17]</h3>
 <strong>Today's Progress:</strong> https://htmlacademy.ru/courses/51
+
+<h2>Day 44: October 26. Friday</h2>
+<h3>Глава 4: Игра теней [17/17]</h3>
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/51
+<h3>Глава 5: Линейные градиенты [17/23]</h3>
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/70

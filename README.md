@@ -642,3 +642,9 @@
 <strong>Today's Progress:</strong> https://htmlacademy.ru/courses/51
 <h3>Глава 5: Линейные градиенты [17/23]</h3>
 <strong>Today's Progress:</strong> https://htmlacademy.ru/courses/70
+
+<h2>Day 45: October 27. Saturday</h2>
+<h3>Глава 5: Линейные градиенты [22/23]</h3>
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/70
+<h3>Двумерные трансформации [12/32]</h3>
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/71

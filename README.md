@@ -648,3 +648,9 @@
 <strong>Today's Progress:</strong> https://htmlacademy.ru/courses/70
 <h3>Двумерные трансформации [12/32]</h3>
 <strong>Today's Progress:</strong> https://htmlacademy.ru/courses/71
+
+<h2>Day 46: October 28. Sunday</h2>
+<h3>Двумерные трансформации [18/32]</h3>
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/71
+<h3>Оформление текста, часть 2 [10/26]</h3>
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/79

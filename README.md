@@ -658,3 +658,7 @@
 <h2>Day 47: October 29. Monday</h2>
 <h3>Оформление текста, часть 2 [26/26]</h3>
 <strong>Today's Progress:</strong> https://htmlacademy.ru/courses/79
+
+<h2>Day 48: October 30. Tuesday</h2>
+<h3>Анимация [31/31]</h3>
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/80

@@ -662,3 +662,7 @@
 <h2>Day 48: October 30. Tuesday</h2>
 <h3>Анимация [31/31]</h3>
 <strong>Today's Progress:</strong> https://htmlacademy.ru/courses/80
+
+<h2>Day 49: October 31. Wednesday</h2>
+<h3>Плавные переходы [14/29]</h3>
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/84

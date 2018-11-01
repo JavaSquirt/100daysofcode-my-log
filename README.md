@@ -666,3 +666,7 @@
 <h2>Day 49: October 31. Wednesday</h2>
 <h3>Плавные переходы [14/29]</h3>
 <strong>Today's Progress:</strong> https://htmlacademy.ru/courses/84
+
+<h2>Day 50: November 1. Thursday</h2>
+<h3>Плавные переходы [29/29]</h3>
+<strong>Today's Progress:</strong> https://htmlacademy.ru/courses/84

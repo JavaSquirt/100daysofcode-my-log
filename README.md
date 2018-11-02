@@ -670,3 +670,12 @@
 <h2>Day 50: November 1. Thursday</h2>
 <h3>Плавные переходы [29/29]</h3>
 <strong>Today's Progress:</strong> https://htmlacademy.ru/courses/84
+
+<h2>Day 51: November 2. Friday</h2>
+<strong>Today's Progress: Таблицы на CSS [9/18]</strong> 
+https://htmlacademy.ru/courses/86
+
+
+
+
+

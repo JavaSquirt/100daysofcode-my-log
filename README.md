@@ -672,8 +672,8 @@
 <strong>Today's Progress:</strong> https://htmlacademy.ru/courses/84
 
 <h2>Day 51: November 2. Friday</h2>
-<strong>Today's Progress: Таблицы на CSS [9/18]</strong> 
-<strong>Course:</strong> https://htmlacademy.ru/courses/86
+<strong>Today's Progress: Таблицы на CSS [9/18]</strong><br>
+https://htmlacademy.ru/courses/86
 
 
 

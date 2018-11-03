@@ -675,7 +675,6 @@
 <strong>Today's Progress: Таблицы на CSS [9/18]</strong><br>
 https://htmlacademy.ru/courses/86
 
-
-
-
-
+<h2>Day 52: November 3. Saturday</h2>
+<strong>Today's Progress: Флексбокс, часть 1 [18/31]</strong><br>
+https://htmlacademy.ru/courses/96

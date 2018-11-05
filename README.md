@@ -682,3 +682,7 @@ https://htmlacademy.ru/courses/96
 <h2>Day 53: November 4. Sunday</h2>
 <strong>Today's Progress: Флексбокс, часть 1 [29/31]</strong><br>
 https://htmlacademy.ru/courses/96
+
+<h2>Day 54: November 5. Monday</h2>
+<strong>Today's Progress: Флексбокс, часть 2 [26/28]</strong><br>
+https://htmlacademy.ru/courses/113

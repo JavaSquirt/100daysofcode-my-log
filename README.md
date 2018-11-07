@@ -690,3 +690,7 @@ https://htmlacademy.ru/courses/113
 <h2>Day 55: November 6. Tuesday</h2>
 <strong>Today's Progress: Знакомство с гридами [12/30]</strong><br>
 https://htmlacademy.ru/courses/269
+
+<h2>Day 56: November 7. Wednesday</h2>
+<strong>Today's Progress: Знакомство с гридами [30/30]</strong><br>
+https://htmlacademy.ru/courses/269

@@ -701,6 +701,6 @@ https://htmlacademy.ru/courses/207
 
 <h2>Day 58: November 9. Friday</h2>
 <strong>Today's Progress: JavaScript basics: theory [14/14]</strong><br>
-https://htmlacademy.ru/courses/207
+https://htmlacademy.ru/courses/207<br>
 <strong>Today's Progress: JavaScript basics: Practice [6/9]</strong><br>
 https://htmlacademy.ru/courses/207/practice

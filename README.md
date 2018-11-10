@@ -704,3 +704,7 @@ https://htmlacademy.ru/courses/207
 https://htmlacademy.ru/courses/207<br>
 <strong>Today's Progress: JavaScript basics: Practice [6/9]</strong><br>
 https://htmlacademy.ru/courses/207/practice
+
+<h2>Day 59: November 10. Saturday</h2>
+<strong>Today's Progress: JavaScript. Conditional (ternary) operator, theory [8/16]</strong><br>
+https://htmlacademy.ru/courses/209

@@ -708,3 +708,7 @@ https://htmlacademy.ru/courses/207/practice
 <h2>Day 59: November 10. Saturday</h2>
 <strong>Today's Progress: JavaScript. Conditional (ternary) operator, theory [8/16]</strong><br>
 https://htmlacademy.ru/courses/209
+
+<h2>Day 60: November 11. Sunday</h2>
+<strong>Today's Progress: JavaScript. Conditional (ternary) operator [16/16]</strong><br>
+https://htmlacademy.ru/courses/209

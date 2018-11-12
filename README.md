@@ -712,3 +712,7 @@ https://htmlacademy.ru/courses/209
 <h2>Day 60: November 11. Sunday</h2>
 <strong>Today's Progress: JavaScript. Conditional (ternary) operator [16/16]</strong><br>
 https://htmlacademy.ru/courses/209
+
+<h2>Day 61: November 12. Monday</h2>
+<strong>Today's Progress: Первый день интенсива 'Профессиональный онлайн‑курс HTML и CSS, уровень 1'</strong><br>
+https://htmlacademy.ru/intensive/htmlcss

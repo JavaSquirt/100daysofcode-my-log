@@ -716,3 +716,8 @@ https://htmlacademy.ru/courses/209
 <h2>Day 61: November 12. Monday</h2>
 <strong>Today's Progress: Первый день интенсива 'Профессиональный онлайн‑курс HTML и CSS, уровень 1'</strong><br>
 https://htmlacademy.ru/intensive/htmlcss
+
+<h2>Day 62: November 13. Tuesday</h2>
+<strong>Today's Progress: Профессиональный онлайн‑курс HTML и CSS, уровень 1<br>
+1. Сделал домашнее задание</strong><br>
+https://htmlacademy.ru/intensive/htmlcss

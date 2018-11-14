@@ -725,13 +725,13 @@ https://htmlacademy.ru/intensive/htmlcss
 <h2>Day 63: November 14. Wednesday</h2>
 <strong>Профессиональный онлайн‑курс HTML и CSS, уровень 1</strong><br>
 Today's Progress:<br>
-
+<br>
 <b>Подготовиться к следующему разделу:</b><br>
 ✅Введение в HTML<br>
 ✅Спецификация HTML<br>
 ✅Обзор тегов личного проекта. Часть 1<br>
 ✅Обзор тегов личного проекта. Часть 2<br>
-
+<br>
 <b>Пройти главы интерактивных курсов:</b><br>
 ✅Знакомство<br>
 ✅Структура HTML-документа<br>
@@ -739,4 +739,5 @@ Today's Progress:<br>
 ✅Ссылки и изображения<br>
 ✅Знакомство с таблицами<br>
 ✅Знакомство с HTML5<br>
+<br>
 https://htmlacademy.ru/intensive/htmlcss

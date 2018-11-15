@@ -741,3 +741,10 @@ Today's Progress:<br>
 ✅Знакомство с HTML5<br>
 <br>
 https://htmlacademy.ru/intensive/htmlcss
+
+<h2>Day 64: November 15. Thursday</h2>
+<strong>Профессиональный онлайн‑курс HTML и CSS, уровень 1</strong><br>
+Today's Progress:<br>
+<b>✅ Лекция #2: Введение в HTML</b><br>
+
+https://htmlacademy.ru/intensive/htmlcss

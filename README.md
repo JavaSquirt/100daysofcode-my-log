@@ -747,3 +747,13 @@ https://htmlacademy.ru/intensive/htmlcss
 Today's Progress:<br>
 <b>✅ Лекция #2: Разметка</b><br>
 https://htmlacademy.ru/intensive/htmlcss
+
+<h2>Day 65: November 16. Friday</h2>
+<strong>Профессиональный онлайн‑курс HTML и CSS, уровень 1<br>
+Today's Progress:<br></strong>
+Скринкасты:<br>
+✅ Инструменты разработчика Chrome DevTools<br>
+✅ Как установить Git и работать в консоли<br>
+✅ Как сделать репозиторий из любого проекта<br>
+✅ Что делать, если всё пошло не так<br>
+✅ Откуда берутся конфликты, и что с ними делать<br>

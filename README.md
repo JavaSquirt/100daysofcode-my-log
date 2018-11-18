@@ -766,3 +766,8 @@ Today's Progress:<br></strong>
 <strong>Профессиональный онлайн‑курс HTML и CSS, уровень 1<br>
   Today's Progress:<br></strong>
 ✅ Работа над личным проектом, в рамках 2 раздела курса.
+
+<h2>Day 67: November 18. Sunday</h2>
+<strong>Профессиональный онлайн‑курс HTML и CSS, уровень 1<br>
+  Today's Progress:<br></strong>
+✅ Работа над личным проектом, в рамках 2 раздела курса.

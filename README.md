@@ -772,7 +772,7 @@ Today's Progress:<br></strong>
 Today's Progress:<br></strong>
 ✅ Работа над личным проектом, в рамках 2 раздела курса.
 
-<h2>Day 68: November 19. Monday</h2>
+<h2>Day 68: November 19. Monday</h2> [часов 8 код писал, 19 числа, а твитнуть всё это забыл]
 <strong>Профессиональный онлайн‑курс HTML и CSS, уровень 1<br>
   Today's Progress:<br></strong>
 ✅ Работа над личным проектом.<br>

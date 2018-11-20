@@ -764,10 +764,16 @@ Today's Progress:<br></strong>
 
 <h2>Day 66: November 17. Saturday</h2>
 <strong>Профессиональный онлайн‑курс HTML и CSS, уровень 1<br>
-  Today's Progress:<br></strong>
+Today's Progress:<br></strong>
 ✅ Работа над личным проектом, в рамках 2 раздела курса.
 
 <h2>Day 67: November 18. Sunday</h2>
 <strong>Профессиональный онлайн‑курс HTML и CSS, уровень 1<br>
-  Today's Progress:<br></strong>
+Today's Progress:<br></strong>
 ✅ Работа над личным проектом, в рамках 2 раздела курса.
+
+<h2>Day 68: November 19. Monday</h2>
+<strong>Профессиональный онлайн‑курс HTML и CSS, уровень 1<br>
+Today's Progress:<br></strong><br>
+✅ Работа над личным проектом.<br>
+✅ Лекция #3: Работа с графикой</b>

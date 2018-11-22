@@ -789,3 +789,7 @@ ps. 8 часов писал код, 19 числа, а твитнуть всё э
 <strong>Профессиональный онлайн‑курс HTML и CSS, уровень 1<br>
   Today's Progress:</strong><br>
 ✅ Работа над личным проектом.
+
+<h2>Day 71: November 22. Thursday</h2>
+<strong>Today's Progress: Знакомство с SVG [15/15]</strong><br>
+ https://htmlacademy.ru/courses/130

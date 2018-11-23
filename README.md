@@ -795,4 +795,5 @@ ps. 8 часов писал код, 19 числа, а твитнуть всё э
  https://htmlacademy.ru/courses/130
 
 <h2>Day 72: November 23. Friday</h2>
-<strong>Today's Progress: </strong><br>
+<strong>Today's Progress: Работа над личным проектом.</strong><br>
+https://prnt.sc/lm2g2l

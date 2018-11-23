@@ -793,3 +793,6 @@ ps. 8 часов писал код, 19 числа, а твитнуть всё э
 <h2>Day 71: November 22. Thursday</h2>
 <strong>Today's Progress: Знакомство с SVG [15/15]</strong><br>
  https://htmlacademy.ru/courses/130
+
+<h2>Day 72: November 23. Friday</h2>
+<strong>Today's Progress: </strong><br>

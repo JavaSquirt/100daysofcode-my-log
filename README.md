@@ -795,5 +795,10 @@ ps. 8 часов писал код, 19 числа, а твитнуть всё э
  https://htmlacademy.ru/courses/130
 
 <h2>Day 72: November 23. Friday</h2>
+<strong>Профессиональный онлайн‑курс HTML и CSS, уровень 1<br>
 <strong>Today's Progress: Работа над личным проектом.</strong><br>
 https://prnt.sc/lm2g2l
+
+<h2>Day 73: November 24. Saturday</h2>
+<strong>HTML Academy: HTML и CSS, уровень 1<br>
+<strong>Today's Progress: Работа над личным проектом.</strong><br>

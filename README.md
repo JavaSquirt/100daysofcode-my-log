@@ -802,3 +802,10 @@ https://prnt.sc/lm2g2l
 <h2>Day 73: November 24. Saturday</h2>
 <strong>HTML Academy: HTML и CSS, уровень 1<br>
 <strong>Today's Progress: Работа над личным проектом.</strong><br>
+
+<h2>Day 74: November 25. Sunday</h2>
+<strong>HTML Academy: HTML и CSS, уровень 1<br>
+<strong>Today's Progress:</strong><br>
+✅ Работа с графикой:
+- контентные, декоративные и фоновые изображения
+- svg

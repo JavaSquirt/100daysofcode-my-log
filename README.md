@@ -809,3 +809,9 @@ https://prnt.sc/lm2g2l
 ✅ Работа с графикой:<br>
 - контентные, декоративные и фоновые изображения<br>
 - svg
+
+<h2>Day 75: November 26. Monday</h2>
+<strong>HTML Academy: HTML и CSS, уровень 1<br>
+<strong>Today's Progress:</strong><br>
+✅ Работа над личным проектом.<br>
+✅ Лекция - доступность и формы.

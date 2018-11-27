@@ -815,3 +815,8 @@ https://prnt.sc/lm2g2l
 <strong>Today's Progress:</strong><br>
 ✅ Работа над личным проектом.<br>
 ✅ Лекция - доступность и формы.
+
+<h2>Day 76: November 27. Tuesday</h2>
+<strong>HTML Academy: HTML и CSS, уровень 1<br>
+<strong>Today's Progress:</strong><br>
+✅ Работа над личным проектом.

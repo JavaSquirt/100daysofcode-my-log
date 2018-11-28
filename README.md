@@ -820,3 +820,8 @@ https://prnt.sc/lm2g2l
 <strong>HTML Academy: HTML и CSS, уровень 1<br>
 <strong>Today's Progress:</strong><br>
 ✅ Работа над личным проектом.
+
+<h2>Day 77: November 28. Wednesday</h2>
+<strong>HTML Academy: HTML и CSS, уровень 1<br>
+<strong>Today's Progress:</strong><br>
+✅ Работа над личным проектом.

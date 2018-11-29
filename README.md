@@ -825,3 +825,9 @@ https://prnt.sc/lm2g2l
 <strong>HTML Academy: HTML и CSS, уровень 1<br>
 <strong>Today's Progress:</strong><br>
 ✅ Работа над личным проектом.
+
+<h2>Day 78: November 29. Thursday</h2>
+<strong>HTML Academy: HTML и CSS, уровень 1<br>
+Today's Progress:<br>
+✅ Работа над личным проектом,<br>
+✅ Лекция - введение в CSS.

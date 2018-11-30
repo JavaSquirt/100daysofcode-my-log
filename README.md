@@ -831,3 +831,7 @@ https://prnt.sc/lm2g2l
 Today's Progress:<br>
 ✅ Работа над личным проектом,<br>
 ✅ Лекция - введение в CSS.
+
+<h2>Day 79: November 30. Friday</h2>
+HTML Academy: HTML и CSS, уровень 1<br>
+Today's Progress: работа над личным проектом.

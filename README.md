@@ -835,3 +835,7 @@ Today's Progress:<br>
 <h2>Day 79: November 30. Friday</h2>
 HTML Academy: HTML и CSS, уровень 1<br>
 Today's Progress: работа над личным проектом.
+
+<h2>Day 80: December 01. Saturday</h2>
+HTML Academy: HTML и CSS, уровень 1<br>
+Today's Progress: работа над личным проектом(css).

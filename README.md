@@ -847,3 +847,7 @@ Today's Progress: работа над личным проектом(css).
 <h2>Day 82: December 03. Monday</h2>
 HTML Academy: HTML и CSS, уровень 1<br>
 Today's Progress: /* css */.
+
+<h2>Day 83: December 04. Tuesday</h2>
+HTML Academy: HTML и CSS, уровень 1<br>
+Today's Progress: закончил стилизацию.

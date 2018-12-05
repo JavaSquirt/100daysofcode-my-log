@@ -851,3 +851,7 @@ Today's Progress: /* css */.
 <h2>Day 83: December 04. Tuesday</h2>
 HTML Academy: HTML и CSS, уровень 1<br>
 Today's Progress: закончил стилизацию.
+
+<h2>Day 84: December 05. Wednesday</h2>
+HTML Academy: HTML и CSS, уровень 1<br>
+Today's Progress: Лекция - Сетки [flexbox].

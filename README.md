@@ -859,3 +859,7 @@ Today's Progress: Лекция - Сетки [flexbox].
 <h2>Day 85: December 06. Thursday</h2>
 HTML Academy: HTML и CSS, уровень 1<br>
 Today's Progress: flexbox.
+
+<h2>Day 86: December 07. Friday</h2>
+HTML Academy: HTML и CSS, уровень 1<br>
+Today's Progress: работа над личным проектом.

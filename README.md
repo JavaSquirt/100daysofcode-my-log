@@ -863,3 +863,7 @@ Today's Progress: flexbox.
 <h2>Day 86: December 07. Friday</h2>
 HTML Academy: HTML и CSS, уровень 1<br>
 Today's Progress: работа над личным проектом.
+
+<h2>Day 87: December 08. Saturday</h2>
+HTML Academy: HTML и CSS, уровень 1<br>
+Today's Progress: работа над личным проектом

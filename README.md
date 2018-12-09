@@ -868,6 +868,6 @@ Today's Progress: работа над личным проектом.
 HTML Academy: HTML и CSS, уровень 1<br>
 Today's Progress: работа над личным проектом
 
-<h2>Day 88: December 08. Saturday</h2>
-HTML Academy: HTML и CSS, уровень 1<br>
-Today's Progress: работа над личным проектом
+<h2>Day 88: December 09. Sunday</h2>
+Today's Progress:<br>
+https://frontendpadawan.wordpress.com/2018/12/09/day-88-of-100daysofcode/

@@ -867,3 +867,7 @@ Today's Progress: работа над личным проектом.
 <h2>Day 87: December 08. Saturday</h2>
 HTML Academy: HTML и CSS, уровень 1<br>
 Today's Progress: работа над личным проектом
+
+<h2>Day 88: December 08. Saturday</h2>
+HTML Academy: HTML и CSS, уровень 1<br>
+Today's Progress: работа над личным проектом

@@ -871,3 +871,7 @@ Today's Progress: работа над личным проектом
 <h2>Day 88: December 09. Sunday</h2>
 Today's Progress:<br>
 https://frontendpadawan.wordpress.com/2018/12/09/day-88-of-100daysofcode/
+
+<h2>Day 89: December 10. Monday</h2>
+Today's Progress:<br>
+https://frontendpadawan.wordpress.com/2018/12/10/day-89-of-100daysofcode/

@@ -883,3 +883,7 @@ https://frontendpadawan.wordpress.com/2018/12/11/day-90-of-100daysofcode/
 <h2>Day 91: December 12. Wednesday</h2>
 Today's Progress:<br>
 https://frontendpadawan.wordpress.com/2018/12/12/day-91-of-100daysofcode/
+
+<h2>Day 92: December 13. Thursday</h2>
+Today's Progress:<br>
+https://frontendpadawan.wordpress.com/2018/12/12/day-92-of-100daysofcode/

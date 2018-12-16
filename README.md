@@ -895,3 +895,7 @@ https://frontendpadawan.wordpress.com/2018/12/12/day-93-of-100daysofcode/
 <h2>Day 94: December 15. Saturday</h2>
 Today's Progress:<br>
 https://frontendpadawan.wordpress.com/2018/12/12/day-94-of-100daysofcode/
+
+<h2>Day 95: December 16. Sunday</h2>
+Today's Progress:<br>
+https://frontendpadawan.wordpress.com/2018/12/12/day-95-of-100daysofcode/

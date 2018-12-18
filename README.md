@@ -903,3 +903,7 @@ https://frontendpadawan.wordpress.com/2018/12/12/day-95-of-100daysofcode/
 <h2>Day 96: December 17. Monday</h2>
 Today's Progress:<br>
 https://frontendpadawan.wordpress.com/2018/12/12/day-96-of-100daysofcode/
+
+<h2>Day 97: December 18. Tuesday</h2>
+Today's Progress:<br>
+https://frontendpadawan.wordpress.com/2018/12/12/day-97-of-100daysofcode/

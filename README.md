@@ -911,3 +911,7 @@ https://frontendpadawan.wordpress.com/2018/12/12/day-97-of-100daysofcode/
 <h2>Day 98: December 19. Wednesday</h2>
 Today's Progress:<br>
 https://frontendpadawan.wordpress.com/2018/12/12/day-98-of-100daysofcode/
+
+<h2>Day 99: December 20. Thursday</h2>
+Today's Progress:<br>
+https://frontendpadawan.wordpress.com/2018/12/12/day-99-of-100daysofcode/

@@ -918,4 +918,4 @@ https://frontendpadawan.wordpress.com/2018/12/12/day-99-of-100daysofcode/
 
 <h2>Day 100: December 21. Friday</h2>
 Today's Progress:<br>
-https://frontendpadawan.wordpress.com/2018/12/12/day-100-of-100daysofcode/
+https://frontendpadawan.wordpress.com/2018/12/21/100-day-of-100daysofcode/
